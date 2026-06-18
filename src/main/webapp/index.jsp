@@ -9,7 +9,7 @@
     <!-- ------------------ Favicon ------------------ -->
     <link rel="shortcut icon" href="./assets/img/favicon.ico" type="image/x-icon">
 
-    <!-- ------------------ Title ------------------ -->
+    <!-- ------------------ Title------------------ -->
     <title>Disney+ Hotstar - Watch TV Shows Online</title>
 
     <!-- ------------------ Style Sheet ------------------ -->
@@ -17,7 +17,7 @@
 </head>
 
 <body>
-    <!-- ------------------ Navbar ------------------ -->
+    <!-- ------------------ Navbar------------------ -->
     <nav class="navbar">
         <img src="./assets/img/logo (1).svg" class="logo" alt="Logo">
         <ul class="nav-links">
