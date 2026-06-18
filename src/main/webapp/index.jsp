@@ -73,7 +73,7 @@
         </div>
     </div>
 
-    <!-- ------------------ Recommendation ------------------ -->
+    <!-- ------------------ Recommendation------------------ -->
     <h1 class="title">recommended for Us!</h1>
     <div class="movies-list">
         <button class="pre-btn"><img src="./assets/img/pre.png" alt=""></button>
